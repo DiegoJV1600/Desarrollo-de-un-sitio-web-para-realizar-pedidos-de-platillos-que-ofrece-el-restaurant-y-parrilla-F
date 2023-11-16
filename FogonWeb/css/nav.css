@@ -1,0 +1,45 @@
+main {
+    margin-top: 95px;
+    margin-bottom: 40px;
+}
+.navbar {
+    height: 80px;
+}
+.navbar .logo {
+    margin-right: 20px;
+}
+.navbar .logo img {
+    width: 75px;
+    height: auto;
+}
+.custom-navbar {
+    background-color: #D5521D;
+}
+.navbar-brand {
+    font-size: 26px;
+}
+.custom-navbar .navbar-nav .nav-link {
+    font-size: 17px;
+    font-weight: bold;
+}
+.custom-cart-icon .fa-cart-shopping {
+    font-size: 25px;
+    color: #fff;
+    opacity: 0.5;
+}
+.custom-cart-icon-act .fa-cart-shopping {
+    font-size: 25px;
+    color: #fff;
+}
+.navbar-brand strong {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.custom-badge {
+    font-size: 15px;
+    color: #fff;
+    opacity: 0.5;
+}
+.custom-badge-act {
+    font-size: 15px;
+    color: #fff;
+}

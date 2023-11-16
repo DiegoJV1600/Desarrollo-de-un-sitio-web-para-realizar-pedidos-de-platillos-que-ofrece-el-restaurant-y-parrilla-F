@@ -1,0 +1,66 @@
+.pago-detalles {
+    margin-top: 20px;
+}
+.pago-detalles h4 {
+    color: rgb(24, 16, 41);
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.table-custom {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+.table-custom th {
+    background-color: #D5521D;
+    color: #fff;
+    text-align: left;
+    padding: 12px; 
+    border-bottom: 3px solid #008C43; 
+    font-size: 20px; 
+    font-weight: bold;
+    position: relative;
+}
+.table-custom td {
+    padding: 10px;
+}
+.nombre-columna {
+    color: #D5521D;
+    font-size: 18px;
+    font-weight: bold;
+}
+.precio-columna {
+    color: #008C43;
+    font-size: 18px;
+    font-weight: bold;
+}
+.subtotal-columna {
+    color: #008C43;
+    font-size: 18px;
+    font-weight: bold;
+}
+.custom-boton-quitar {
+    background-color: transparent;
+    color: #D5521D;
+}
+.custom-boton-quitar:hover {
+    color: #ff6600;
+} 
+.custom-boton-pagar {
+    background-color: #D5521D;
+    color: #fff;
+    padding: 11px 16px;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.custom-boton-pagar:hover {
+    background-color: #ff6600;
+    color: #fff;
+}
+.custom-delete-icon {
+    font-size: 21px;
+}

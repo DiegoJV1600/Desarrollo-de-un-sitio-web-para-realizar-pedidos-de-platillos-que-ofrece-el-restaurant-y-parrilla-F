@@ -1,0 +1,43 @@
+.card-title {
+    font-weight: bold;
+    font-size: 40px;
+    color: #D5521D;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.12);
+}
+.card-money-descuento {
+    opacity: 0.7;
+    color: red;
+    font-weight: bold;
+}
+.custom-buttom-carrito {
+    background-color: transparent;
+    color: #D5521D;
+    padding: 8px 16px;
+    border: 2px solid #D5521D;
+    border-radius: 15px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.custom-buttom-carrito:hover {
+    background-color: #D5521D;
+    color: #fff;
+}
+.custom-buttom-comprar {
+    background-color: #D5521D;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.custom-buttom-comprar:hover {
+    background-color: #ff6600;
+}
+.image-container img {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
